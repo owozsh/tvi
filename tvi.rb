@@ -1,3 +1,5 @@
+# Para alterar os parâmetros da equação, basta modificar as variáveis globais a, b, c e d abaixo.
+
 $a = 13
 $b = 5
 $c = 3
